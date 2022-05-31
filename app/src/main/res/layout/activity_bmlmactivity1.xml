@@ -156,6 +156,7 @@
         android:layout_marginEnd="50dp"
         android:layout_marginBottom="25dp"
         android:text="Siguiente"
+        android:onClick="onClickSiguiente"
         android:textAlignment="center"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
