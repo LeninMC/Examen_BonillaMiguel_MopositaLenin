@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="hint_agregar">Agregar Número</string>
+    <string name="button_agregar">Agregar</string>
+    <string name="button_cerrar">Cerrar</string>
 </resources>
